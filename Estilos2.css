@@ -1,0 +1,48 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+nav ul {
+    background-color: #23376d;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    border: black;
+}
+
+.titulos{
+    display: flex;
+    margin: 60px;
+}
+.cuerpo{
+    width: 100%;
+    border: 3px solid black;
+}
+.Partes{
+    display:flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.final{
+    border: 5px sold black;
+    border-radius: 20px;
+}

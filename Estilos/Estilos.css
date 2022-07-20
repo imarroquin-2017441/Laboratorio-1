@@ -1,0 +1,39 @@
+.Tabla-Uno{
+    background-color: #EEAA7B;
+    width: 100%;
+    text-align: center;
+}
+
+.Tabla-Dos{
+    background-color: #66B9BF;
+    width: 100%;
+    text-align: center;
+}
+
+.Tabla-Tres{
+    background-color: #E37222;
+    width: 100%;
+    text-align: center;
+}
+
+.Tabla-Cuatro{
+    background-color: #07889B;
+    width: 100%;
+    text-align: center;
+}
+
+.th{
+    border:black 1px solid;
+    border-collapse: collapse;
+    border-spacing: 2px;
+
+}
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+
+  
